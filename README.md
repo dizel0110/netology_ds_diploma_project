@@ -25,7 +25,7 @@ Diploma project of Netology Data Scientist Specialization
 
 Структура репозитория:
 
-data - сюда помещаются предобработанные данные (размеченные в программе labelstud.io и )
+data - сюда помещаются предобработанные данные (размеченные в программе labelstud.io и приведённые к размеру 640x640)
 
 docs - документы
 
