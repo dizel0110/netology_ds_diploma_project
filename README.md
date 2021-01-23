@@ -1,7 +1,7 @@
 # netology_ds_diploma_project
 Diploma project of Netology Data Scientist Specialization
 
-Разработка модели распознавания качества продукта
+-= Разработка модели распознавания качества продукта =-
 
 Выбран один из дефектов в исходном изображении.
 
