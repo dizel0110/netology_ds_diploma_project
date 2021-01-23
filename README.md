@@ -24,6 +24,7 @@ Diploma project of Netology Data Scientist Specialization
 • Conv2DTranspose
 
 Структура репозитория:
+
 data - сюда помещаются предобработанные данные (размеченные в программе labelstud.io и )
 
 docs - документы
