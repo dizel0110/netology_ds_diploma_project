@@ -8,4 +8,4 @@
 
 Label Studio - Data labeling, annotation and exploration tool.
 
-labelstud.i0 - онлайн-инструмент!
+labelstud.io - онлайн-инструмент, заходи и действуй!
